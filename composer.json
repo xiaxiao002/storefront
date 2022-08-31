@@ -1,0 +1,20 @@
+{
+	"name": "xiaxiao002/storefront",
+	"description": "",
+	"keywords": [
+		"wordpress",
+		"theme"
+	],
+	"homepage":"https://github.com/xiaxiao002/storefront",
+	"authors": [
+		{
+		"name": "storefront",
+		"homepage":"https://eileenlue.com"
+		}
+	],
+	"type": "wordpress-theme",
+	"require": {
+		"php": ">5.6"
+	}
+
+}
